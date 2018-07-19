@@ -90,8 +90,8 @@ header .profile-image:hover {
 }
 .card {
   margin: 30px;
-  padding: 20px 40px 40px;
-  max-width: 500px;
+  padding: 20px 35px 30px;
+  max-width: 550px;
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
@@ -99,8 +99,13 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #9494b8;
 }
+
+h3 {
+  margin-bottom: 5px;
+}
+
 
 ul.skills {
   padding: 0;
